@@ -1,0 +1,12 @@
+D:\Documents\VSProjects\GISPlotPointCalc\GISPlotPointCalc\bin\Release\GISPlotPointCalc.exe.config
+D:\Documents\VSProjects\GISPlotPointCalc\GISPlotPointCalc\bin\Release\GISPlotPointCalc.exe
+D:\Documents\VSProjects\GISPlotPointCalc\GISPlotPointCalc\bin\Release\GISPlotPointCalc.pdb
+D:\Documents\VSProjects\GISPlotPointCalc\GISPlotPointCalc\obj\Release\GISPlotPointCalc.csprojAssemblyReference.cache
+D:\Documents\VSProjects\GISPlotPointCalc\GISPlotPointCalc\obj\Release\GISPlotPointCalc.PolyLinePlotPoints.resources
+D:\Documents\VSProjects\GISPlotPointCalc\GISPlotPointCalc\obj\Release\GISPlotPointCalc.Properties.Resources.resources
+D:\Documents\VSProjects\GISPlotPointCalc\GISPlotPointCalc\obj\Release\GISPlotPointCalc.csproj.GenerateResource.cache
+D:\Documents\VSProjects\GISPlotPointCalc\GISPlotPointCalc\obj\Release\GISPlotPointCalc.csproj.CoreCompileInputs.cache
+D:\Documents\VSProjects\GISPlotPointCalc\GISPlotPointCalc\obj\Release\GISPlotPointCalc.exe
+D:\Documents\VSProjects\GISPlotPointCalc\GISPlotPointCalc\obj\Release\GISPlotPointCalc.pdb
+D:\Documents\VSProjects\GISPlotPointCalc\GISPlotPointCalc\bin\Release\CustomCur.cur
+D:\Documents\VSProjects\GISPlotPointCalc\GISPlotPointCalc\obj\Release\GISPlotPointCalc.PropertyTableWindow.resources
