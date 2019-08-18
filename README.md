@@ -34,7 +34,7 @@
 
 #### 2.8 配置文件
 每次关闭程序时，用户当前的设定都会丢失而需在下一次使用时重新设置。为此，程序引入了配置文件。窗体内存取方法如下：
-
+```C#
         internal void SettingsOperation(int Method)
         {
             string SettingPath = Environment.GetFolderPath(Environment.SpecialFolder.Personal) + "\\PlotSettings.xml";
@@ -56,7 +56,7 @@
                 DrawingTipLabel.Text = "点击“开始画线”开始绘制，点击“从文件读取折线”或直接拖拽数据文件到窗体以加载数据";
             }
         }
-
+```
 该方法在程序启动和结束时分别调取一次。
 
 #### 2.9 异常处理
